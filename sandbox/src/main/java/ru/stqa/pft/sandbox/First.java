@@ -15,19 +15,14 @@ public class First {
         Rectangle r = new Rectangle(4, 6);
         System.out.println("Площадь прямоугольника со сторонами " + r.a + " и " + r.b + " = " + r.area());
 
-        double p1 = 1;
-        double p2 = 8;
-        System.out.println("Расстояние между двумя точками" + " = " + distance(p1, p2));
+        Point p = new Point(1, 8);
+        System.out.println("Расстояние между двумя точками" + " = " + p.distance());
 
 
     }
 
     public static void hello(String somebody) {
         System.out.println("Hello, " + somebody + "!");
-    }
-
-    public static double distance(double p1, double p2) {
-        return Math.sqrt(p1*p1 + p2*p2);
     }
 
 
