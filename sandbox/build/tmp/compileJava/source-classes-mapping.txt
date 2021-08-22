@@ -2,7 +2,7 @@ second.java
  second
 ru/stqa/pft/sandbox/First.java
  ru.stqa.pft.sandbox.First
-ru/stqa/pft/sandbox/Rectangle.java
- ru.stqa.pft.sandbox.Rectangle
 ru/stqa/pft/sandbox/Square.java
  ru.stqa.pft.sandbox.Square
+ru/stqa/pft/sandbox/Rectangle.java
+ ru.stqa.pft.sandbox.Rectangle
