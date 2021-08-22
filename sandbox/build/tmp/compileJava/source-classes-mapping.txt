@@ -1,4 +1,4 @@
-first.java
- first
 second.java
  second
+ru/stqa/pft/sandbox/First.java
+ ru.stqa.pft.sandbox.First
